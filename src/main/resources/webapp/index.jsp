@@ -5,6 +5,6 @@
 <%--<img src="img/1.jpg">--%>
 <img src="http://192.168.91.129:8080/img/1.jpg">
 hello world ;!
-ewre
+ewreyhrtyr
 </body>
 </html>
